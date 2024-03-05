@@ -1,2 +1,2 @@
-# react-clone
-Cloned react.dev using vanilla javascript.
+Making a streaming services website using html, css and javascript only.
+Work in progress.....
